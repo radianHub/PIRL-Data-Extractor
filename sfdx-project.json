@@ -4,17 +4,19 @@
       "path": "force-app",
       "default": true,
       "package": "PIRL Data Extractor",
-      "versionName": "ver 0.1",
+      "versionName": "Summer 24",
       "versionNumber": "0.1.0.NEXT",
-      "versionDescription": ""
+      "versionDescription": "A product designed to configurably generate and export PIRL report files",
+      "ancestorVersion": "HIGHEST"
     }
   ],
-  "name": "dx-empty",
+  "name": "PIRL Data Extractor",
   "namespace": "rhpirl",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0",
   "packageAliases": {
     "PIRL Data Extractor": "0HoVT00000000OD0AY",
-    "PIRL Data Extractor@1.9000.0": "04tVT0000001BsfYAE"
+    "PIRL Data Extractor@1.9000.0": "04tVT0000001BsfYAE",
+    "PIRL Data Extractor@2.0.0": "04tVT0000001BxVYAU"
   }
 }
