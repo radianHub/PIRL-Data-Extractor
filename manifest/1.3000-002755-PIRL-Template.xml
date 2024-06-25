@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>PIRL_Template__c.Active__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>PIRL_Template__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PIRL_Template__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>PIRL_Template__c-PIRL Template Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>PIRL_Template__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>PIRL_Data_Extractor_User_Admin</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>55.0</version>
+</Package>
