@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Contacts__c</field>
+                <field>Contact__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
